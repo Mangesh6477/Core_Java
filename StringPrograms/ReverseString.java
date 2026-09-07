@@ -9,5 +9,5 @@ void main()
   }
 
   IO.println("Original String Is "+str);
-  IO.println("Reversed String Is "+rev);
+  IO.println("Reversed String  Is : "+rev);
 }
